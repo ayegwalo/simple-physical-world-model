@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated machine-learning files
+button_model.pkl
+
+# Local datasets
+button_ml_data.csv
+*.log
+
+# Operating system
+.DS_Store
